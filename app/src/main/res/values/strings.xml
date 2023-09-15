@@ -7,4 +7,17 @@
     <string name="login_btn">Login</string>
     <string name="register_btn">Register</string>
     <string name="bmart_pic">Bmart</string>
+    <string name="binus_mart_logo">Binus Mart</string>
+    <string name="beli_btn1">Beli</string>
+    <string name="judul_buku1">C++</string>
+    <string name="buku_program_c">Buku Program C++</string>
+    <string name="rp_100_000_harga1">Rp 100.000</string>
+    <string name="judul_buku2">Java</string>
+    <string name="buku_program_java">Buku Program Java</string>
+    <string name="rp_120_000_harga2">Rp 120.000</string>
+    <string name="beli_btn2">Beli\n</string>
+    <string name="html">HTML</string>
+    <string name="buku_program_html">Buku Program HTML</string>
+    <string name="beli_btn3">Beli</string>
+    <string name="rp_80_000_harga3">Rp 80.000</string>
 </resources>
