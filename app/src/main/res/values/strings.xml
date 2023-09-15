@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMART</string>
+    <string name="bmart_DESC">BMART</string>
+    <string name="Tagline">Selamat datang di BMART</string>
+    <string name="username_Login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_btn">Register</string>
+    <string name="bmart_pic">Bmart</string>
+</resources>
